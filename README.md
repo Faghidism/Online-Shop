@@ -1,5 +1,7 @@
 # Online Clothing Store
 
+![Image](https://github.com/user-attachments/assets/9d401d9a-738d-4772-baef-d25b19f5351a)
+
 ## Project Description
 A Java-based online shopping system for a clothing store with **client-server architecture** and **mandatory GUI implementation** (Java Swing). The system supports two user roles: customers and administrators, each with distinct functionalities.
 
